@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+    font-family: fantasy;
+}
+body{
+    background-image: url('../../Assests/Login/bg-for-web.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
